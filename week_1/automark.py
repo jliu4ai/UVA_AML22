@@ -133,9 +133,17 @@ def get_progress(username):
     if 'error' in data:
         raise ServerError(data['error'])
 
+    completed = 0
+    for k, v in data['progress'].items():
+        if v == 'completed':
+            completed += 1
+    completed_percentage = round(completed / len(data['progress']) * 100)
+    
     print('-'*45)
     print('| {:42}|'.format(data['name']))
     print('| {:42}|'.format(data['mail']))
+    print('-'*45)
+    print('| Current Assignment Grade {:2}%              |'.format(completed_percentage))
     print('-'*45)
     for k, v in sorted(data['progress'].items()):
         print('| {:25}| {:15}|'.format(k, v))
