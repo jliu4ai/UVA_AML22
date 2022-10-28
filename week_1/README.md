@@ -1,6 +1,6 @@
 # Introduction to Python
 
-Welcome to the **Applied Machine Learning** course. During this course, we will use [Python](https://www.python.org) programming language to perform matrix computations, image manipulation and retrieval tasks. As some people have not worked with Python before, we start the course with an introduction to the language. 
+Welcome to the **Applied Machine Learning** course. During this course, we will use [Python](https://www.python.org) programming language to perform matrix computations, image manipulation and retrieval tasks. As some people have not worked with Python before, we start the course with an introduction to the language. Refer to the notebook （‘Intro.ipynb’）for more details.
 
 Python is a very popular high-level programming language with an emphasis on code readability and writing with a minimal amount of lines. The Python programming language contains many features that make it easy to learn. Most notably:
 
@@ -71,16 +71,8 @@ A: There are several ways of downloading the files from GitHub:
 
 
 
+# Assignment week 1
 
+Follow the steps in the notebook （‘ML.ipynb’）to complete the AML assignment for week 1. Each function you'll implement is tested for correctness using **automark**. We have registered you with your student number. If your student number is not registered, please contact one of the TAs in class.
 
-
-
-
-
-
-
-
-
-
-
-
+Enjoy coding!
