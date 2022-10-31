@@ -23,7 +23,7 @@ class ServerError(BaseException):
 
 
 class Config:
-    host = 'http://178.62.224.167:1234/'
+    host = 'http://178.62.239.182:1234/'
     cwd = os.path.dirname(os.path.realpath(__file__))
     test_folder = os.path.join(cwd, 'local_tests')
     test_path = os.path.join(test_folder, 'tests.pickle')
