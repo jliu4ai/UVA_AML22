@@ -1,10 +1,10 @@
 import numpy as np
 
 #######################################################
-# put `sigmoid_forward` and `sigmoid_grad_input` here #
+# put `w1_sigmoid_forward` and `w1_sigmoid_grad_input` here #
 #######################################################
 
 #######################################################
-#      put `nll_forward` and `nll_grad_input` here    #
+# put `w1_nll_forward` and `w1_nll_grad_input` here    #
 #######################################################
 
