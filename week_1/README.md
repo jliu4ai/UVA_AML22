@@ -67,7 +67,7 @@ A: There are several ways of downloading the files from GitHub:
 
 * The first one and the simplest one is just to visit the repository and download `.zip` archive.
 * You can [download](https://desktop.github.com) the official GitHub desktop client. Then visit the GitHub repository and click `Open in Desktop` on the website and the rest will be done automatically by the client. 
-* You can clone the repository to your computer by typing the following command in a terminal/cmd: `git clone https://github.com/davzha/UVA_AML19_dev`. But first, [install](https://git-scm.com/downloads) git. You may also find this [tutorial](https://try.github.io/) very useful
+* You can clone the repository to your computer by typing the following command in a terminal/cmd: `git clone https://github.com/jliu4ai/UVA_AML22`. But first, [install](https://git-scm.com/downloads) git. You may also find this [tutorial](https://try.github.io/) very useful
 
 
 
